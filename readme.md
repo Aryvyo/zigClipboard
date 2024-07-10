@@ -7,7 +7,7 @@ of the server
 
 ## Usage
 
-its as downloading and
+its as easy as downloading and
 ```./zigClipManager```
 
 ## Installation
