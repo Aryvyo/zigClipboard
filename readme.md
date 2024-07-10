@@ -5,6 +5,11 @@ This does not take ownership of the selection except when you copy from it, I do
 of the server
 ![image](https://github.com/Aryvyo/zigClipboard/assets/32790578/139621ed-3297-4986-87e6-bd17adfcff12)
 
+## Usage
+
+its as downloading and
+```./zigClipManager```
+
 ## Installation
 
 A built file should be available in the releases, however if you instead wish to build it yourself:
