@@ -1,0 +1,14 @@
+.{
+    .name = "zigClipManager",
+    .version = "0.0.1",
+    .dependencies = .{
+	 .zgui = .{.path = "libs/zgui"},
+	 .zglfw = .{.path = "libs/zglfw"},
+	 .zopengl = .{.path = "libs/zopengl"},
+	 .zpool = .{.path = "libs/zpool"},
+	 .system_sdk = .{.path = "libs/system-sdk"},
+	},
+    .paths = .{
+        "",
+    },
+}

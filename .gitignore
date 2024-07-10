@@ -1,0 +1,4 @@
+shell.nix
+zig-out/*
+.zig-cache/*
+libs/*
