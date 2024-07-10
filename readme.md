@@ -9,6 +9,8 @@ of the server
 
 A built file should be available in the releases, however if you instead wish to build it yourself:
 
+Using zig 0.13.0 
+
 Download `zgui`, `zglfw` and `system-sdk` from [zig-gamdev/libs](https://github.com/zig-gamedev/zig-gamedev/tree/main/libs)
 and place them in a folder named `libs` in the root directory of this project
 
